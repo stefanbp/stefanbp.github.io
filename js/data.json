@@ -1,0 +1,12 @@
+[
+  {
+    "kurs": "C#",
+    "beskrivning": "Grunderna i programering",
+    "längd": "24 timmar"
+  },
+  {
+    "kurs": "NET",
+    "beskrivning": ".NET Core",
+    "längd": "24 timmar"
+  }
+]
